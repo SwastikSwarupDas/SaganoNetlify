@@ -482,7 +482,7 @@ form ::placeholder{
     color: #fff;
     position: absolute;
     line-height: 25vw;
-    transform: translateX(0vw) translateY(-46.8vw);
+    transform: translateX(0vw) translateY(-46.6vw);
     overflow: hidden;
   }
 
