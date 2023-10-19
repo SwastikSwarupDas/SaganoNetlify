@@ -399,6 +399,34 @@ nav h1{
   color: rgba(100,100,100,0.7);
 }
 
+.emptyCart{
+  margin-top: 35vw;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+  background-color: rgba(243, 243, 243,0.4);
+  height: 150vw;
+  gap: 3vw;
+}
+
+.emptyCart i{
+  font-size: 30vw;
+  color: rgba(0,0,0,0.3);
+  font-weight: 100;
+}
+
+.emptyCart h1{
+  font-size: 5.5vw;
+  color: rgba(0,0,0,0.7);
+}
+
+.emptyCart a{
+  font-size: 4.5vw;
+  text-decoration: none;
+  color: rgba(0,0,0,0.4);
+}
+
 .bagination{
   margin-top: 0vw;
 }
